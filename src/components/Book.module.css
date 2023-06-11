@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.book__image {
+  width: 90px;
+}
+
+.book__card {
+  display: grid;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+}

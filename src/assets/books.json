@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "price": 9.99,
+    "name": "Pride and Prejudice",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/24/729/2472955.jpg"
+  },
+  {
+    "id": 2,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Literary Fiction",
+    "price": 11.99,
+    "name": "The Great Gatsby",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/24/597/2459704.jpg"
+  },
+  {
+    "id": 3,
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "price": 14.99,
+    "name": "War and Peace",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/23/989/2398921.jpg"
+  },
+  {
+    "id": 4,
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "price": 12.99,
+    "name": "A Tale of Two Cities",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/22/492/2249238.jpg"
+  },
+  {
+    "id": 5,
+    "author": "Gabriel Garcia Marquez",
+    "genre": "Magical Realism",
+    "price": 10.99,
+    "name": "One Hundred Years of Solitude",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/24/714/2471454.jpg"
+  },
+  {
+    "id": 6,
+    "author": "Herman Melville",
+    "genre": "Adventure Fiction",
+    "price": 13.99,
+    "name": "Moby-Dick",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/25/016/2501652.jpg"
+  },
+  {
+    "id": 7,
+    "author": "Mark Twain",
+    "genre": "Adventure Fiction",
+    "price": 8.99,
+    "name": "The Adventures of Huckleberry Finn",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/28/205/2820590.jpg"
+  },
+  {
+    "id": 8,
+    "author": "Emily Bronte",
+    "genre": "Romance",
+    "price": 9.99,
+    "name": "Wuthering Heights",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/28/091/2809160.jpg"
+  },
+  {
+    "id": 9,
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "price": 7.99,
+    "name": "1984",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/29/186/2918634.jpg"
+  },
+  {
+    "id": 10,
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction",
+    "price": 11.99,
+    "name": "Fahrenheit 451",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/28/223/2822350.jpg"
+  },
+  {
+    "id": 11,
+    "author": "Harper Lee",
+    "genre": "Legal Drama",
+    "price": 9.99,
+    "name": "To Kill a Mockingbird",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/26/221/2622192.jpg"
+  },
+  {
+    "id": 12,
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-Age Fiction",
+    "price": 10.99,
+    "name": "The Catcher in the Rye",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/28/582/2858219.jpg"
+  },
+  {
+    "id": 13,
+    "author": "Charlotte Bronte",
+    "genre": "Romance",
+    "price": 8.99,
+    "name": "Jane Eyre",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/25/444/2544490.jpg"
+  },
+  {
+    "id": 14,
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "price": 9.99,
+    "name": "Frankenstein",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/20/326/2032621.jpg"
+  },
+  {
+    "id": 15,
+    "author": "Ernest Hemingway",
+    "genre": "Literary Fiction",
+    "price": 12.99,
+    "name": "The Old Man and the Sea",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/25/555/2555503.jpg"
+  },
+  {
+    "id": 16,
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "price": 10.99,
+    "name": "The War of the Worlds",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/24/013/2401383.jpg"
+  },
+  {
+    "id": 17,
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "price": 8.99,
+    "name": "Journey to the Center of the Earth",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/29/699/2969919.jpg"
+  },
+  {
+    "id": 18,
+    "author": "Nathaniel Hawthorne",
+    "genre": "Gothic Fiction",
+    "price": 9.99,
+    "name": "The Scarlet Letter",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/28/655/2865552.jpg"
+  },
+  {
+    "id": 19,
+    "author": "Edgar Allan Poe",
+    "genre": "Horror",
+    "price": 7.99,
+    "name": "The Complete Tales and Poems of Edgar Allan Poe",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/21/418/2141859.jpg"
+  },
+  {
+    "id": 20,
+    "author": "John Steinbeck",
+    "genre": "Literary Fiction",
+    "price": 11.99,
+    "name": "The Grapes of Wrath",
+    "imageUrl": "https://cdn.img-gorod.ru/310x500/nomenclature/23/389/2338979.jpg"
+  }
+]
